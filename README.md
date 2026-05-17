@@ -44,4 +44,4 @@ This project demonstrates modern frontend architecture using React, Redux Toolki
 
 ```bash
 npm install
-npm run dev
+npm start
